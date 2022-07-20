@@ -67,6 +67,7 @@ changes and commits, fetch the                       git fetch origin
 latest history from the server and                   git reset --hard origin/master
 point your local master branch at
 it, do this:
+<<<<<<< HEAD
 
 ======================================
 
@@ -252,3 +253,4 @@ In this tutorial, you learnt how you can easily reset your files to HEAD on Git 
 
 We also described the difference between hard reset and soft reset : 
 essentially discarding (hard) or keeping them in your staging area in order to re-commit them later on (soft)
+
