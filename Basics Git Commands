@@ -67,16 +67,3 @@ changes and commits, fetch the                       git fetch origin
 latest history from the server and                   git reset --hard origin/master
 point your local master branch at
 it, do this:
-
-
-#Albhabets
-A
-B
-C
-
-#Numbers
-1
-2
-3
-4
-5
